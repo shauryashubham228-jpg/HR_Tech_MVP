@@ -42,7 +42,7 @@ ai_recruiter_copilot/
 ### 1. Clone / Copy Project
 
 ```bash
-cd C:\talentxo
+cd C:\
 ```
 
 ### 2. Create Virtual Environment
